@@ -1,0 +1,77 @@
+/* For better understanding here my Linkedin profile to show the video on this project about 6 min:
+  LINK: 
+   
+
+*/
+
+Part 01: Use Login && Registration system by FILE
+
+Part 02:->
+
+It is the project name is Vehicle Rent made in 2nd semester.
+It was made by me and my team named Hasan Ahmad, Hasibur Rohman Khurasani Jawad, Mahmud Hussain Ferdous and Abid Hasan Polash.
+Basically we planned that how can people rent/booked a vehicle by online. So by using "C programming" language we made this. 
+There are 5 types of vehicle that are--> 
+
+    1. Car
+    2. CNG
+    3. Motor-Bike
+    4. Truck
+    5. Van
+
+In addition, there are more functinalities was add inside the every part of vehicle. For example, if anyone selected for car, so there will be come anonther function like
+that which type of car/AC/non-AC etc. also others.
+
+Part 03: This project use file for storing collection of users data while he/she booked a vehicle.
+part 04: This project use Online Mobile Banking System (Bkash,Nagad etc) and at the last show in output the reciept of banking and also store that documents in file
+Part 05: Here's use discount system for vehicle rent on given some condition. If user appriciated in our condition he/she get 5% discount
+Part (06): Here's use another discount 5% for Membership with our company or Answer the quiz
+Part 07: Use system date access and also return the output future date which date user want to reuturn the vehicle
+
+In summarry, If you run source code in your laptop so hopefully you will be surprised bacause as a 2nd semester student's we can try to maake best project.
+
+
+/*
+Features:
+Login & Registration
+Category of Vehicle
+Model and Features of Vehicle
+Rent Conditions
+Collecting Info for Rent
+Discount of 5% (if rent for more than  5 days)
+Membership
+Quiz
+Confirmation 
+Terms & Conditions
+Payment System
+Showing Receipt
+*/
+
+Tools:
+/*
+File
+Structure
+Loops
+Control Statement
+Functions
+Array
+Strings 
+(__DATE__)
+goto function
+rand();
+fflush(stdin);
+gets(); 
+*/
+
+Project Supervisor:
+Saidur Rohman Kohinoor
+Lecturer of CSE department
+Advisor at IEEE
+Leading University, Sylhet
+
+Team : Extreme Nerds
+Hasan Ahmad
+Hasibur Rohman Khurasani Jawad
+Mahmud Hussain Ferdous
+Abid Hasan Polash
+[We are the students of CSE department in Leading University, Sylhet. Batch-57(A)]
